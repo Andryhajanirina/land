@@ -11,14 +11,20 @@ Things you may want to cover:
 
 * Configuration : bundle install, rails db:create, rails db:migrate
 
-* Database creation
+* Database creation : config/database.yml/ enlever le "tino"
 
 * Database initialization
 
-* How to run the test suite
+* How to run the test suite : rails s
 
 * Services (job queues, cache servers, search engines, etc.)
 
 * https://shrouded-castle-14800.herokuapp.com/
 
 * ...
+
+
+# lien github vers landing page visant les bacheliers
+
+* https://github.com/MinoHari/Lp-Bachelier.git
+* https://fathomless-cove-10223.herokuapp.com/
