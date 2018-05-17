@@ -1,7 +1,8 @@
 class ContactMailer < ApplicationMailer
 
-	def contact(post)
-		@post=post
+	def contact(home)
+		@home=home
 		mail(to: 'yvestinos@gmail.com', subject:'Sujet de test')
 	end
+	
 end

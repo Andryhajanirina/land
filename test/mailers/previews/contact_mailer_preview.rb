@@ -2,7 +2,7 @@
 class ContactMailerPreview < ActionMailer::Preview
 
 	def contact
-		ContactMailer.contact(Home.index)
+		ContactMailer.contact(Home.first)
 	end
 
 end
