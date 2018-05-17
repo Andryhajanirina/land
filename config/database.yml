@@ -17,7 +17,8 @@
 default: &default
   adapter: postgresql
   encoding: unicode
-  username: 
+  #alana rhf tonga any @lesn
+  username: tino
   password: 
   # For details on connection pooling, see Rails configuration guide
   # http://guides.rubyonrails.org/configuring.html#database-pooling
@@ -25,6 +26,7 @@ default: &default
 
 development:
   <<: *default
+  #rails db:create
   database: land_development
 
   # The specified database role being used to connect to postgres.
