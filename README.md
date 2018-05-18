@@ -29,3 +29,21 @@ Things you may want to cover:
 
 * https://github.com/MinoHari/Lp-Bachelier.git
 * https://fathomless-cove-10223.herokuapp.com/
+
+# Contenu additionnel du projet
+
+* Mailing
+* bot tweeter
+* analytics
+* template wrapbootstrap
+* bot tweeter
+
+# Objectif du site
+
+* Insiter les gens à venir sur thp, que ce soit les bacheliers ou les gens du capital de madagascar nommé Tananarive
+
+# dream team
+* tino sam
+* Njaratiana
+* Mino
+* Andry
